@@ -35,3 +35,11 @@ ANN(Artificial Neural Networks)
 Ensemble Learning : Gradient Boosting (GBM) , AdaBoost , XGBoost 
 Naive Bayes
 Multi Layer Perceptron (MLP)
+
+# MICROSOFT POWER BI DASHBOARD
+
+Excited to Share My Latest Microsoft Power BI Dashboard!
+I've been diving into the world of data visualization and analytics, and I'm thrilled to present my latest project created using Microsoft Power BI.
+HEART DISEASE PREDICTION
+Insightful Analytics: Get actionable insights with comprehensive data analysis.
+User-Friendly Interface: Easy navigation and intuitive design for a seamless experience.

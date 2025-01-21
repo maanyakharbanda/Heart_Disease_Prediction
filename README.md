@@ -1,5 +1,5 @@
 # Heart_Disease_Prediction
- I'm excited to share with you my latest project, which I prepared to explore my data science skills and as a personal endeavor. This project allowed me to dive deep into the fascinating world of data science. In this project, I focused on Heart Disease Prediction using various models. The main goal was to detect whether the person has a heart disease or not. Dataset used is available on UCI Machine Learning Repository. This project involved various stages, including data collection, preprocessing, exploratory data analysis, model building, and evaluation.
+ I'm excited to share with you my latest project, which I prepared to explore data science and machine learning. This project allowed me to dive deep into the fascinating world of data science. In this project, I focused on Heart Disease Prediction using various models. The main goal was to detect whether the person has a heart disease or not. Dataset used is available on UCI Machine Learning Repository. This project involved various stages, including data collection, preprocessing, exploratory data analysis, model building, and evaluation.
 
 # Dataset Description
 This dataset includes the following features:

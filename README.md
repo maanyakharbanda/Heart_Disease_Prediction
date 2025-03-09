@@ -1,6 +1,9 @@
 # Heart_Disease_Prediction
  I'm excited to share with you my latest project, which I prepared to explore data science and machine learning. This project allowed me to dive deep into the fascinating world of data science. In this project, I focused on Heart Disease Prediction using various models. The main goal was to detect whether the person has a heart disease or not. Dataset used is available on UCI Machine Learning Repository. This project involved various stages, including data collection, preprocessing, exploratory data analysis, model building, and evaluation.
 
+# Published
+I also had the opportunity to publish my abstract on this work at CHASCON 2024, Panjab University. This research highlights the effectiveness of machine learning models in early heart disease detection.
+
 # Dataset Description
 This dataset includes the following features:
 
